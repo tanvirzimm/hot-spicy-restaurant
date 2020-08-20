@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+.single-food-item{
+    
+
+
+border-radius:5px;
+text-align: center;
+padding:10px;
+min-height: 400px;
+margin-bottom: 20px;
+transition:.2s;
+}
+
+.single-food-item:hover{
+    box-shadow: 0 0 10px gray;
+    
+}
+
+
+.single-food-item img{
+    width: 70%;
+    
+}
+
+.item-name{
+    font-size: 18px;
+    color:rgb(88, 85, 85);
+    font-weight: 600;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-top:20px;
+}
+
+.item-short-details{
+    font-size: 18px;
+    color:gray;
+    font-weight: 300;
+}
+
+.item-price{
+
+    color:black;
+    font-size: 28px;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin:20px 0;
+}
+
+
+.update{
+    border:none;
+    background-color: rgb(38, 168, 38);
+    color:white;
+    border-radius:30px;
+    padding:10px 15px;
+    margin-left:5px;
+  
+    font-size: 15px;
+}
+
+.update:focus{
+    outline:0;
+}
+
+
+
+
+
+

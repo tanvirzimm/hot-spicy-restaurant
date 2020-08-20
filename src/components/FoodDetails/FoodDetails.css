@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+.quantity-manager{
+    border:1px solid gray;
+    border-radius:30px;
+    padding: 10px;
+    width: 114px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.plus,.minus{
+    cursor: pointer;
+}
+
+.count-value{
+    width:30px;
+    border:none;
+    text-align: center;
+}
+.count-value:focus{
+    outline:0;
+}
+
+.details-name{
+
+    font-family: 'Noto Sans KR', sans-serif;
+    color:rgb(63, 61, 61);
+
+}
+
+.details{
+    color:gray;
+    margin: 40px 0;
+
+}
+
+.details-price{
+    margin-right:20px;
+}
+
+.price-and-quantity{
+ margin:20px 0;
+}
+
+.remove-button,.add-button{
+    background-color: #F91944;
+    color: white;
+    padding:10px;
+    border:none;
+    width:100px;
+    border-radius:10px;
+    margin-top:15px;
+}
+.remove-button,.add-button:focus{
+outline:0;
+}
+
+.shopping-icon{
+    margin-right:10px;
+}
+
+.image-side img{
+    width:100%;
+}

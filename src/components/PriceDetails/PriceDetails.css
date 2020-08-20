@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+.cart-price-details {
+    width:90%;
+    margin:50px auto;
+    height: 200px;
+    box-shadow: 0 0 10px gray;
+    border-radius:10px;
+    
+    background-color:#287c20;
+    color:rgb(255, 255, 255);
+    padding:10px;
+    padding-left:20px;
+    padding-top:20px;
+    
+}
+
+.price-titles{
+    font-size:20px;
+    color: rgb(228, 240, 229);
+}
+
+.amount{
+    font-weight: 900;
+    color:white;
+}

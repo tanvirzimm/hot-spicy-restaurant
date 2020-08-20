@@ -1,0 +1,38 @@
+.review-button{
+    width:300px;
+    margin:50px auto;
+    display: block;
+    background-color: #F91944;
+    color:white;
+    border:none;
+    padding:10px 0;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.review-button:focus{
+    outline: 0;
+}
+.review-link-wrapper{
+    text-decoration: none !important;
+   
+}
+
+.category{
+    text-align: center;
+    margin:50px 0 100px 0;
+}
+
+.category .category-option{
+text-decoration: none;
+color:black;
+margin-right:15px;
+}
+
+
+.item-link-wrapper{
+    text-decoration:none !important;
+}
+
+
+
