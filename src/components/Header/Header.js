@@ -34,7 +34,7 @@ const Header = () => {
 
 
 
-<nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top sticky-top">
+<nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 <div className="container">
 <Link to='/'><div> 
 
